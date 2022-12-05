@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zay Yar Phyo</h1>
-<h3 align="center">Android and C# ASP.Net Developer</h3>
+<h3 align="center">Android and ASP.Net C# Developer</h3>
 
 - 🔭 I’m currently working on [Galaxy Software Co., Ltd](https://galaxy.com.mm/archives/product/cafepos)
 
