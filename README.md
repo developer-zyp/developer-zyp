@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Android Development with Kotlin/Java**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/resume-zyp](https://bit.ly/resume-zyp)
+- 👨‍💻 All of my projects are available at [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
-- 📝 I regularly write articles on [https://bit.ly/resume-zyp](https://bit.ly/resume-zyp)
+- 📝 I regularly write articles on [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
 - 💬 Ask me about **Java, Kotlin, ASP.Net C#, PHP, HTML, CSS**
 
 - 📫 How to reach me **zayarphyo16.mm@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/resume-zyp](https://bit.ly/resume-zyp)
+- 📄 Know about my experiences [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
 - ⚡ Fun fact **Coding with Music and Cold Drink, Playing Football and Games, Watching Movies, Travel, Explore on the internet, Learning from youtube.**
 
