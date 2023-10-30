@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Zay Yar Phyo</h1>
-<h3 align="center">Android and ASP.Net C# Developer</h3>
+<h3 align="center">Android and Flutter Developer</h3>
 
-- 🔭 I’m currently working on [Galaxy Software Co., Ltd](https://galaxy.com.mm/archives/product/cafepos)
+- 🔭 I’m currently working as Android Developer on [Tijarah Holding Ltd.](https://www.tijarahholding.com/)
 
-- 🌱 I’m currently learning **Android Development with Kotlin/Java**
+- 🌱 I’m currently learning **Android Development with Kotlin/Java and Flutter Cross-platform**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
 - 📝 I regularly write articles on [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
-- 💬 Ask me about **Java, Kotlin, ASP.Net C#, PHP, HTML, CSS**
+- 💬 Ask me about **Java, Kotlin, Dart, Flutter**
 
 - 📫 How to reach me **zayarphyo16.mm@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
-- ⚡ Fun fact **Coding with Music and Cold Drink, Playing Football and Games, Watching Movies, Travel, Explore on the internet, Learning from youtube.**
+- ⚡ Fun fact **Coding with Music and Coffee, Playing Football and Games, Watching Movies, Travel, Explore on the internet, Learning from youtube.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
