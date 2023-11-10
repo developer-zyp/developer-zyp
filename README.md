@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
-- 💬 Ask me about ** Android Development with Java, Kotlin, Dart, Flutter **
+- 💬 Ask me about **Android Development with Java, Kotlin, Dart, Flutter**
 
 - 📫 How to reach me **zayarphyo16.mm@gmail.com**
 
