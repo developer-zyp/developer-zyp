@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zay Yar Phyo</h1>
-<h3 align="center">Android and Flutter Developer</h3>
+<h3 align="center">Android Developer</h3>
 
 - 🔭 I’m currently working as Android Developer on [Tijarah Holding Ltd.](https://www.tijarahholding.com/) Kuala Lumpur, Malaysia.
 
