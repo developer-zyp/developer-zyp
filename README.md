@@ -3,17 +3,11 @@
 
 - 🔭 I’m currently working as Android Developer on [Tijarah Holding Ltd.](https://www.tijarahholding.com/) Kuala Lumpur, Malaysia.
 
-- 🌱 I’m currently learning **Android Development with Kotlin/Java and Flutter Cross-platform**
+- 🌱 I’m currently learning **Android/iOS Development with Kotlin/Java/Swift and Flutter for cross-platform**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
-
-- 📝 I regularly write articles on [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
-
-- 💬 Ask me about **Android Development with Java, Kotlin, Flutter**
+- 💬 Ask me about **Android Development with Java, Kotlin, Swift, Flutter**
 
 - 📫 How to reach me **zayarphyo16.mm@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/cv-zyp](https://bit.ly/cv-zyp)
 
 - ⚡ Fun fact **Coding with Music and Coffee, Playing Football and Games, Watching Movies, Travel, Explore on the internet, Learning from youtube.**
 
